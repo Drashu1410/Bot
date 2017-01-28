@@ -1,0 +1,28 @@
+{
+  "name": "moneyhoney",
+  "version": "1.0.0",
+  "description": "stock price ticker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drashu1410/Bot.git"
+  },
+  "keywords": [
+    "stock",
+    "market",
+    "price"
+  ],
+  "author": "drashti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drashu1410/Bot/issues"
+  },
+  "homepage": "https://github.com/Drashu1410/Bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.5.4",
+    "restify": "^4.3.0"
+  }
+}
